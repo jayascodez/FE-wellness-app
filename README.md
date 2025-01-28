@@ -1,16 +1,4 @@
 # fe_connect_backend
 
-A new Flutter project.
+Collaborated with a of group of five to create a mobile wellness app that offers personalized activity and article recommendations based on users' moods, along with mood tracking and journal features. Used Cloud Firestore database hosted on Postman to connect to our Flutter front end.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
